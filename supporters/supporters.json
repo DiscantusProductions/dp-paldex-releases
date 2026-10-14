@@ -1,0 +1,6 @@
+{
+ "format": "dp-supporters-v1",
+ "alg": "ed25519",
+ "payload": "eyJnZW5lcmF0ZWRfYXQiOiIyMDI2LTEwLTE0VDAyOjM5OjA1WiIsInNjaGVtYSI6MSwic3VwcG9ydGVycyI6W119",
+ "sig": "e1y4Wce+w+GC7UWSUK+GX6pzY0mNhH6npYxy+YViHMdpdsTJb2dmaW87gbzHMzNM4W34F1PjPZDhECOcWj7rCw=="
+}
